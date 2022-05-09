@@ -1,0 +1,16 @@
+---
+#Employee records
+- Contact details:
+   name: Roja Jakkula
+   team: devops
+   number: 7890976
+- Departments:
+         - devOps
+         - integration
+         - DevOps Architect
+         - Product owner
+         - Scrum Master
+- branches:
+         - Bangalore
+         - Kolkata
+         - chennai

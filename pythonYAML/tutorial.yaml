@@ -1,0 +1,15 @@
+# microservices:
+#   - app: user_authentication
+#     port: 435
+#     version: 1.3
+#   - app: shopping-cart
+#     port: 444
+#     version: 1.7 
+
+name: "pushapak"
+coccupation: 'programmer'
+age: 23
+gpa: 3.5
+fav_num: 1e+10
+male: true
+birthday: 26feb2022
